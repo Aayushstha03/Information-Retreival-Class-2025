@@ -9,5 +9,6 @@ dependencies = [
     "nltk>=3.9.1",
     "pandas>=2.3.2",
     "ruff>=0.12.10",
+    "scikit-learn>=1.7.1",
     "wordcloud>=1.9.4",
 ]
