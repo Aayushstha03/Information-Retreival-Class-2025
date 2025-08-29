@@ -1,0 +1,13 @@
+[project]
+name = "information-retreival-class-2025"
+version = "0.1.0"
+description = "This repo contains code and materials for my Information Retrieval class 2025."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "nltk>=3.9.1",
+    "pandas>=2.3.2",
+    "ruff>=0.12.10",
+    "wordcloud>=1.9.4",
+]
