@@ -1,1 +1,3 @@
-/environment
+.ruff_cache/
+.venv/
+

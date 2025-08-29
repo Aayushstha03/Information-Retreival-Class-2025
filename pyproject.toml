@@ -5,8 +5,10 @@ description = "This repo contains code and materials for my Information Retrieva
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "kmedoids>=0.5.3.1",
     "matplotlib>=3.10.5",
     "nltk>=3.9.1",
+    "numpy>=2.3.2",
     "pandas>=2.3.2",
     "ruff>=0.12.10",
     "scikit-learn>=1.7.1",
